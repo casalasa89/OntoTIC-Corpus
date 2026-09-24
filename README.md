@@ -1,10 +1,10 @@
 # OntoTIC · Corpus
 
-Repositorio privado de documentación y datos de investigación. El archivo maestro disponible es `Corpus_Total_OntoTIC_2010_2022_V4.xlsx`.
+Repositorio privado para documentación y datos de investigación. Se ha creado la estructura inicial, pero el archivo maestro `Corpus_Total_OntoTIC_2010_2022_V4.xlsx` todavía no está cargado en GitHub.
 
 ## Estado
 
-La matriz original se conserva separada. Antes de hacer público cualquier documento o texto completo, corresponde revisar derechos de autor, duplicados, identificadores y procedencia. Los archivos de proyectos de tópicos contienen copias de textos y salidas auxiliares que requieren curaduría.
+Antes de incorporar documentos o textos completos, corresponde revisar derechos de autor, duplicados, identificadores y procedencia. Los archivos de proyectos de tópicos contienen copias de textos y salidas auxiliares que requieren curaduría.
 
 ## Esquema pendiente
 

@@ -2,7 +2,7 @@
 
 ## Corpus metadata
 
-The repository-safe corpus table excludes `texto_modelado`. Key fields include document identifier, actor, actor type, title, year, source, URL, DOI, validation decision, modelability status, semantic relevance, SHA-256 hash, and source-file reference.
+The repository-safe corpus table excludes `texto_modelado` and other fields that could reproduce restricted content. It contains document identifier, origin, actor, actor type, year, source type, source, DOI, validation decision, and LDA eligibility. The controlled research archive retains titles, URLs, semantic relevance, SHA-256 hashes, source-file references, and the permitted modeled text.
 
 ## Actor profiles
 

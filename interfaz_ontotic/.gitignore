@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/*.sqlite
+sources/*.xlsx
+sources/señales_documento.csv
+static/network.png
+static/network.gexf

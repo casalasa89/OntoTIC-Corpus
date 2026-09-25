@@ -1,11 +1,14 @@
-# OntoTIC · Corpus
+# OntoTIC Corpus
 
-Repositorio privado de documentación y datos de investigación. La matriz maestra [`Corpus_Total_OntoTIC_2010_2022_V4.xlsx`](Corpus_Total_OntoTIC_2010_2022_V4.xlsx) está incorporada en su formato original.
+Repository for the traceable corpus metadata used by the **OntoTIC–LDA V6.13 pipeline**.
 
-## Estado
+The master dataset contains 9,375 records and the strict LDA subset contains 8,418 modelable documents from 2010–2022. The repository version excludes redistributed full text and retains identifiers, actors, years, sources, URLs, DOI, validation decisions, LDA eligibility, and SHA-256 hashes.
 
-La matriz V4 permite examinar el corpus maestro, el subconjunto LDA, el archivo histórico, la cobertura de actores y el protocolo de auditoría. Antes de incorporar documentos o textos completos adicionales, corresponde revisar derechos de autor, duplicados, identificadores y procedencia. Los archivos históricos de proyectos de tópicos contienen copias de textos y salidas auxiliares que requieren curaduría.
+Files:
 
-## Próximos pasos
+- `data/metadata/Corpus_Metadatos_OntoTIC_2010_2022_V613.xlsx`
+- `data/actors/Listado_43_Actores_OntoTIC_V614.xlsx`
+- `docs/DATA_DICTIONARY.md`
+- `docs/RELEASE_NOTES_V614.md`
 
-Documentar unidad de análisis, fuente, fecha, idioma, sector, criterio de inclusión, licencia y transformaciones para cada registro. Conservar trazabilidad entre el identificador del documento y los resultados LDA. Las versiones posteriores del corpus deberán incorporarse con fecha, cambios y controles de deduplicación.
+GPC, PROGEN, PROVIDENCIA, and RISARALDA remain non-evaluable. Missing document signal is not zero organizational capability.

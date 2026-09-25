@@ -2,7 +2,7 @@
 
 Repository for the traceable corpus metadata used by the **OntoTIC–LDA V6.13 pipeline**.
 
-The master dataset contains 9,375 records and the strict LDA subset contains 8,418 modelable documents from 2010–2022. The repository version excludes redistributed full text and retains identifiers, actors, years, sources, URLs, DOI, validation decisions, LDA eligibility, and SHA-256 hashes.
+The master dataset contains 9,375 records and the strict LDA subset contains 8,418 modelable documents from 2010–2022. The repository version excludes redistributed full text and retains document identifiers, actors, years, source types, sources, DOI, validation decisions, and LDA eligibility. The controlled research archive retains the extended URL and hash audit.
 
 Files:
 
